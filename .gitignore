@@ -1,0 +1,14 @@
+# Omitir datasets grandes o específicos
+IMDB_Dataset_SPANISH.csv
+
+# Omitir logs de entrenamiento
+logs/
+training_log.txt
+
+# Omitir el entorno virtual de Python
+pytorch-venv/
+
+# Omitir resultados o modelos generados
+results/
+sentiment_model/
+
